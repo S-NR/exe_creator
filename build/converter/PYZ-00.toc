@@ -1,310 +1,6 @@
 ('D:\\Projects\\GIT\\Systec - '
- 'DWx\\GIT\\DWx\\Branch-Updated\\DWx_Software_Maintenance\\Technical\\Tools\\Converters\\build\\converter\\PYZ-00.pyz',
- [('PIL',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\__init__.py',
-   'PYMODULE'),
-  ('PIL.AvifImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BlpImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BmpImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BufrStubImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.CurImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DcxImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DdsImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.EpsImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.ExifTags',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ExifTags.py',
-   'PYMODULE'),
-  ('PIL.FitsImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FliImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FpxImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FtexImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.GbrImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.GifImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.GimpGradientFile',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
-   'PYMODULE'),
-  ('PIL.GimpPaletteFile',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
-   'PYMODULE'),
-  ('PIL.GribStubImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.Hdf5StubImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IcnsImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IcoImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.ImImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.Image',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Image.py',
-   'PYMODULE'),
-  ('PIL.ImageChops',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageChops.py',
-   'PYMODULE'),
-  ('PIL.ImageCms',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageCms.py',
-   'PYMODULE'),
-  ('PIL.ImageColor',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageColor.py',
-   'PYMODULE'),
-  ('PIL.ImageFile',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFile.py',
-   'PYMODULE'),
-  ('PIL.ImageFilter',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFilter.py',
-   'PYMODULE'),
-  ('PIL.ImageMath',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageMath.py',
-   'PYMODULE'),
-  ('PIL.ImageMode',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageMode.py',
-   'PYMODULE'),
-  ('PIL.ImageOps',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageOps.py',
-   'PYMODULE'),
-  ('PIL.ImagePalette',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImagePalette.py',
-   'PYMODULE'),
-  ('PIL.ImageQt',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageQt.py',
-   'PYMODULE'),
-  ('PIL.ImageSequence',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageSequence.py',
-   'PYMODULE'),
-  ('PIL.ImageShow',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageShow.py',
-   'PYMODULE'),
-  ('PIL.ImageTk',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageTk.py',
-   'PYMODULE'),
-  ('PIL.ImageWin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageWin.py',
-   'PYMODULE'),
-  ('PIL.ImtImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IptcImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.Jpeg2KImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.JpegImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.JpegPresets',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\JpegPresets.py',
-   'PYMODULE'),
-  ('PIL.McIdasImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MicImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpegImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpoImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MspImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PaletteFile',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PaletteFile.py',
-   'PYMODULE'),
-  ('PIL.PalmImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcdImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcxImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PdfImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PdfParser',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PdfParser.py',
-   'PYMODULE'),
-  ('PIL.PixarImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PngImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PpmImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PsdImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.QoiImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SgiImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SpiderImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SunImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.TgaImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.TiffImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.TiffTags',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TiffTags.py',
-   'PYMODULE'),
-  ('PIL.WebPImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.WmfImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XVThumbImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XbmImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XpmImagePlugin',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL._binary',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_binary.py',
-   'PYMODULE'),
-  ('PIL._deprecate',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_deprecate.py',
-   'PYMODULE'),
-  ('PIL._typing',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_typing.py',
-   'PYMODULE'),
-  ('PIL._util',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_util.py',
-   'PYMODULE'),
-  ('PIL._version',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_version.py',
-   'PYMODULE'),
-  ('PIL.features',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\features.py',
-   'PYMODULE'),
-  ('__future__',
+ 'DWx\\GIT\\DWx\\exe_creator\\build\\converter\\PYZ-00.pyz',
+ [('__future__',
    'C:\\Users\\Nishma '
    'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE'),
@@ -508,9 +204,9 @@
    'C:\\Users\\Nishma '
    'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\codeop.py',
    'PYMODULE'),
-  ('colorsys',
+  ('commctrl',
    'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\colorsys.py',
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\commctrl.py',
    'PYMODULE'),
   ('concurrent',
    'C:\\Users\\Nishma '
@@ -1380,6 +1076,51 @@
    'C:\\Users\\Nishma '
    'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\topics.py',
    'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
   ('queue',
    'C:\\Users\\Nishma '
    'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\queue.py',
@@ -1532,29 +1273,97 @@
    'C:\\Users\\Nishma '
    'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\webbrowser.py',
    'PYMODULE'),
+  ('win32com',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\Nishma '
+   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
   ('xml',
    'C:\\Users\\Nishma '
    'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\__init__.py',
-   'PYMODULE'),
-  ('xml.etree',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\__init__.py',
-   'PYMODULE'),
-  ('xml.etree.ElementInclude',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementInclude.py',
-   'PYMODULE'),
-  ('xml.etree.ElementPath',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementPath.py',
-   'PYMODULE'),
-  ('xml.etree.ElementTree',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementTree.py',
-   'PYMODULE'),
-  ('xml.etree.cElementTree',
-   'C:\\Users\\Nishma '
-   'Nj\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\cElementTree.py',
    'PYMODULE'),
   ('xml.parsers',
    'C:\\Users\\Nishma '

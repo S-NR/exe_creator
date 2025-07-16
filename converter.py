@@ -518,13 +518,39 @@ def convert_unicode_to_text(text):
     except Exception as e:
         return f"[Error decoding Unicode]: {e}"
 
+# def convert_hex_to_text(text):
+#     try:
+#         hex_parts = [x.strip() for x in text.strip(',').split(',')]
+#         chars = [chr(int(part, 16)) for part in hex_parts if part.lower().startswith("0x")]
+#         return ''.join(chars)
+#     except Exception as e:
+#         return f"[Error decoding Hex]: {e}"
+
 def convert_hex_to_text(text):
     try:
-        hex_parts = [x.strip() for x in text.strip(',').split(',')]
-        chars = [chr(int(part, 16)) for part in hex_parts if part.lower().startswith("0x")]
-        return ''.join(chars)
+        text = text.strip()
+
+        # Case 1: Comma-separated with or without 0x
+        if ',' in text:
+            hex_parts = [x.strip() for x in text.strip(',').split(',') if x.strip()]
+            chars = []
+            for part in hex_parts:
+                if part.lower().startswith('0x'):
+                    part = part[2:]
+                chars.append(chr(int(part, 16)))
+            return ''.join(chars)
+
+        # Case 2: Continuous hex string (e.g. 041F0430044...)
+        elif len(text) % 4 == 0:
+            chars = [chr(int(text[i:i+4], 16)) for i in range(0, len(text), 4)]
+            return ''.join(chars)
+
+        else:
+            return "[Error] Invalid format or length mismatch"
+
     except Exception as e:
         return f"[Error decoding Hex]: {e}"
+
 
 # Chinese spacing helpers
 
