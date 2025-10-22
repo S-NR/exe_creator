@@ -507,7 +507,8 @@ FONT_OUTPUT = ("Arial", 14, "bold")
 # ---------- Conversion Functions ----------
 
 def convert_text_to_unicode(text):
-    return ''.join([f'\\u{ord(c):04X}' for c in text])
+    # return ''.join([f'\\u{ord(c):04X}' for c in text])    
+    return ''.join([f'{ord(c):04X}' for c in text])
 
 def convert_text_to_hex(text):
     return ', '.join([f'0x{ord(c):04X}' for c in text])
@@ -670,10 +671,10 @@ def copy_to_clipboard_2():
     if text:
         root.clipboard_clear()
         root.clipboard_append(text)
-        root.update()
-        messagebox.showinfo("Copied", "Spaced sentence copied to clipboard.")
-    else:
-        messagebox.showwarning("Nothing to Copy", "Please perform a conversion first.")
+        # root.update()
+        # messagebox.showinfo("Copied", "Spaced sentence copied to clipboard.")
+    # else:
+        # messagebox.showwarning("Nothing to Copy", "Please perform a conversion first.")
 
 btn_manual = tk.Button(btn_frame2, text="Manual Spacing", font=FONT_NORMAL, command=lambda: convert_spacing("manual"))
 btn_jieba = tk.Button(btn_frame2, text="jieba Spacing", font=FONT_NORMAL, command=lambda: convert_spacing("jieba"))
